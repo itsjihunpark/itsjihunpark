@@ -2,9 +2,8 @@
 
 I am Jihun based in London, UK and I do Web Application development.
 
-
-
 [![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjihunpark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
