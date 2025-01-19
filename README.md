@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am Jihun based in London, UK and I do Web Application development.
+I am Jihun based in London, UK
+I am passionate about data driven application and I dabble with some computer vision
+
+My main programming languages are Python and Java.
+
 
 [![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjihunpark)](https://github.com/anuraghazra/github-readme-stats)
 
