@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Jihun based in London, UK
-I am passionate about data driven application and I dabble with some computer vision
+I am passionate about data driven systems and I dabble with some computer vision.
 
 My main programming languages are Python and Java.
 
