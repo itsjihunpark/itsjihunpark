@@ -6,11 +6,6 @@ I am passionate about data driven systems and I dabble with some computer vision
 My main programming languages are Python and Java.
 
 
-[![Jihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjihunpark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 <!--
 **itsjihunpark/itsjihunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
