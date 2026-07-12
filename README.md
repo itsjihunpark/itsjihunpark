@@ -3,7 +3,7 @@
 I am Jihun based in London, UK
 I am passionate about data driven systems and I dabble with some computer vision.
 
-My main programming languages are Python and Java.
+My main programming language is Python, and Matlab.
 
 
 <!--
